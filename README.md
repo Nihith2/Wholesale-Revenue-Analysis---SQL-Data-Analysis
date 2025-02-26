@@ -3,10 +3,15 @@ General Info
 This project analyzes wholesale revenue trends across product lines and warehouses using SQL. It demonstrates my ability to extract insights from sales data, optimize queries, and enhance data readability. The analysis was performed using MySQL.
 
 Dataset
+
 The dataset consists of wholesale revenue records, including:
+
 •	OrderID – Unique identifier for each order.
+
 •	OrderDate – Date of the transaction.
+
 •	ProductLine – Category of the product sold.
+
 •	Warehouse – Location where the product was stored and dispatched.
 •	NetRevenue – Revenue generated from each transaction.
 
