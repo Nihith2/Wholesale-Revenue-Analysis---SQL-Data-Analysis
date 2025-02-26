@@ -7,7 +7,6 @@ Dataset
 The dataset consists of wholesale revenue records, including:
 
 •	OrderID – Unique identifier for each order.
-
 •	OrderDate – Date of the transaction.
 
 •	ProductLine – Category of the product sold.
