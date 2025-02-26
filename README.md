@@ -2,6 +2,8 @@
 General Info
 This project analyzes wholesale revenue trends across product lines and warehouses using SQL. It demonstrates my ability to extract insights from sales data, optimize queries, and enhance data readability. The analysis was performed using MySQL.
 
+
+
 Dataset
 
 The dataset consists of wholesale revenue records, including:
@@ -16,6 +18,8 @@ The dataset consists of wholesale revenue records, including:
 
 •	NetRevenue – Revenue generated from each transaction.
 
+
+
 Summary
 
 Key business questions answered:
@@ -29,6 +33,7 @@ Which product lines generate the most revenue?
 Which warehouses contribute the most to overall sales?
 
 
+
 SQL Skills Used
 
 🔹 Data aggregation and filtering using GROUP BY and HAVING 
@@ -40,11 +45,13 @@ SQL Skills Used
 🔹 Performance tuning for enhanced query execution
 
 
+
 Project Includes:
 
  Database creation script – create_data.sql
  
  Revenue analysis queries – revenue_analysis.sql
+
  
  
 Technologies Used
